@@ -35,11 +35,3 @@ function addTodo(event) {
   // clear todoInput.value
   todoInput.value = "";
 }
-
-{
-  /* <div className="todo">
-  <li class="todo-item">hey</li>
-  <button class="complete-btn"><i class="fas fa-check"></i></button>
-  <button class="delete-btn"><i class="fas fa-trash"></button>
-</div> */
-}
